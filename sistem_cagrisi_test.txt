@@ -1,0 +1,2 @@
+Bu veri dogrudan Kernel uzerinden yazildi!
+Sistem Cagrilari: open -> write -> close
